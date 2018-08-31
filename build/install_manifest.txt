@@ -1,0 +1,10 @@
+/home/daniellevkovits/catkin_ws/install/_setup_util.py
+/home/daniellevkovits/catkin_ws/install/env.sh
+/home/daniellevkovits/catkin_ws/install/setup.bash
+/home/daniellevkovits/catkin_ws/install/setup.sh
+/home/daniellevkovits/catkin_ws/install/setup.zsh
+/home/daniellevkovits/catkin_ws/install/.rosinstall
+/home/daniellevkovits/catkin_ws/install/lib/pkgconfig/beginner_tutorials.pc
+/home/daniellevkovits/catkin_ws/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig.cmake
+/home/daniellevkovits/catkin_ws/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig-version.cmake
+/home/daniellevkovits/catkin_ws/install/share/beginner_tutorials/package.xml

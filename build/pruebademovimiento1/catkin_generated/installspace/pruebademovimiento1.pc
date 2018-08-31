@@ -1,0 +1,8 @@
+prefix=/home/daniellevkovits/catkin_ws/install
+
+Name: pruebademovimiento1
+Description: Description of pruebademovimiento1
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/daniellevkovits/catkin_ws/install/lib 
+Requires: 

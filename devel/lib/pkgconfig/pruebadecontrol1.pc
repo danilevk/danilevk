@@ -1,0 +1,8 @@
+prefix=/home/daniellevkovits/catkin_ws/devel
+
+Name: pruebadecontrol1
+Description: Description of pruebadecontrol1
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/daniellevkovits/catkin_ws/devel/lib 
+Requires: 
